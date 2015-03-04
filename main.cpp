@@ -3,6 +3,10 @@
 #include <cmath>
 using namespace std;
 
+/*
+ * This illustrates how to use the progressbar class.
+ * */
+
 int main()
 {
     double sum = 0;
